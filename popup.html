@@ -3,10 +3,16 @@
   <head>
     <title>Wednesday Lunch Viewer</title>
   </head>
-  <script type='text/javascript' src='popup.js'></script>
-  <link rel='stylesheet' type='text/css' href='popup.css'></link>
+  <script type="text/javascript" src="popup.js"></script>
+  <link rel="stylesheet" type="text/css" href="popup.css" />
   <body>
-    <img id='l_img' src='loading.gif'>
-    <div id='d_str'></div>
+    <div style="height: 240px;">
+      <img id="l_img" src="loading.gif">
+      <div id="d_area">
+        <span id="l_lt" class="xthan">&lt;&lt;</span>
+        <span id="d_str"></span>
+        <span id="l_gt" class="xthan">&gt;&gt;</span>
+      </div>
+    </div>
   </body>
 </html>

@@ -1,5 +1,24 @@
-#d_str {
+#d_area {
 	font-family: serif;
 	font-size: 8pt;
 	text-align: center;
+	color: rgb(255,255,255);
+	background-color: rgba(0,0,0,0.5);
+	border-radius: 4px;
+	position: absolute;
+	margin-left: 10px;
+	padding-top: 5px;
+	width: 220px;
+	height: 18px;
+	top: 220px;
+	visibility: hidden;
+}
+
+.xthan {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.xthan:hover {
+	color: lightblue;
 }
