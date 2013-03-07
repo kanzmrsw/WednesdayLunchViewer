@@ -1,0 +1,1 @@
+{"license": "", "description": "Show Wednesday Lunch with TAKEchi-Gumi photos.", "contributors": [], "author": "anzaikaa", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "initial.rev42", "lib": "lib", "fullName": "Wednesday Lunch Viewer", "main": "main", "id": "jid0-6j6xRhT20c3YJejzVBBeLaZLB9E", "name": "wednesday-lunch-viewer"}
